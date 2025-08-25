@@ -1,8 +1,7 @@
+<<<<<<< HEAD
 # AI‑Adaptive Immune Mesh (AAIM)
-
-
----
-
+=======
+>>>>>>> 1243c875037f61c7d12d4d6af76f9b9eab825a7d
 # 🛡 AAIM: AI-Adaptive Immune Mesh
 
 📖 Description:
@@ -621,4 +620,9 @@ Large-scale infra architects.
 ---
 
 this project is under construction.   
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1243c875037f61c7d12d4d6af76f9b9eab825a7d
 
